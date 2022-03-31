@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<LetterDef>
+		<defName>success_letter</defName>
+		<color>(200, 200, 200)</color>
+		<flashColor>(20, 220, 220)</flashColor>
+		<flashInterval>6</flashInterval>
+		<bounce>false</bounce>
+		<arriveSound>LetterArrive_Good</arriveSound>
+		<description>A number of rats, Peter-Pipered by your pawn's psychic pulses, have been enamoured and are arriving to join the colony.</description>
+	</LetterDef>
+</Defs>

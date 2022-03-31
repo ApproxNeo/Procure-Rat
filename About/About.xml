@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>approxneo.procurerat</packageId>
+	<name>Procure Rat</name>
+	<author>ApproxNeo</author>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+
+	<modDependencies>
+	</modDependencies>
+
+	<incompatibleWith>
+	</incompatibleWith>
+
+	<description>
+Procure Rat is a Rimworld mod that adds some new psycasts dedicated to making you a God amonst men. (and also rats!)
+
+
+Includes
+A new psycast, "procure rat", that takes some time to charge up. Once done, a number of rats will join your colony, already tamed. Given that at least 2 rats join, at least 1 male and 1 female will join.
+	</description>
+</ModMetaData>
